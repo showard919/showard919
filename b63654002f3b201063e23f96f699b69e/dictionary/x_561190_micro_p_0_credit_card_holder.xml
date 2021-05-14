@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Credit Card Holders" max_length="40" name="x_561190_micro_p_0_credit_card_holder" sizeclass="13" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Cc holder name" max_length="40" name="cc_holder_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="First name" max_length="40" name="first_name" type="string"/>
+        <element label="ID" max_length="40" name="id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

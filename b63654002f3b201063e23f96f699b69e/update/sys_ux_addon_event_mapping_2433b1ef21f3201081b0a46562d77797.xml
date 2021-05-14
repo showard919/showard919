@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Task Mapping</name>
+        <parent_macroponent display_value="Landing Page">ec33b1ef5ff320104c983079ee12c596</parent_macroponent>
+        <source_da display_value="navigation">d46f400473211010c342d5fdbdf6a7cf</source_da>
+        <source_element_id>data_row_1</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-05-04 18:38:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2433b1ef21f3201081b0a46562d77797</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task Mapping</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_2433b1ef21f3201081b0a46562d77797</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-05-04 18:38:22</sys_updated_on>
+        <target_event display_value="My tasks">6433b1eff3f320107b97158a0ef41c97</target_event>
+        <target_payload_mapping>{
+  "type": "MAP_CONTAINER",
+  "container": {
+    "sysId": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "sysId"
+        ]
+      }
+    },
+    "table": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "table"
+        ]
+      }
+    }
+  }
+}</target_payload_mapping>
+    </sys_ux_addon_event_mapping>
+</record_update>

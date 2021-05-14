@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="navigation">d46f400473211010c342d5fdbdf6a7cf</declarative_action_assignment>
+        <predicate display_value="My Request - task predicate">2433b1ef76f32010f883563b66e5bd8d</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-05-04 18:38:21</sys_created_on>
+        <sys_id>ac33b1ef59f3201002c0d38afc8ab490</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_ac33b1ef59f3201002c0d38afc8ab490</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-05-04 18:38:21</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

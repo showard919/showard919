@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Micro Purchase Transactions (MPT) Config">5c33b1ef2ff3201063e23f96f699b667</app_config>
+        <description/>
+        <fields>sysId,table,approvalId</fields>
+        <icon/>
+        <name>Record Page(task)</name>
+        <optional_parameters>newId</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>rec_task</route_type>
+        <screen_type display_value="Record Page(task)">2c33b1ef85f320108a1ae0f08f43fd84</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-05-04 18:38:23</sys_created_on>
+        <sys_id>6c33b1efd8f32010b5cbe56f1787ca84</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record Page(task)</sys_name>
+        <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+        <sys_update_name>sys_ux_app_route_6c33b1efd8f32010b5cbe56f1787ca84</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-05-04 18:38:23</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=6c33b1efd8f32010b5cbe56f1787ca84"/>
+</record_update>

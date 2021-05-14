@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description>MicroPurchase (MPT) application menu navigation.</description>
+        <device_type>browser</device_type>
+        <hint>MicroPurchase (MPT) application menu</hint>
+        <name/>
+        <order>100</order>
+        <roles>admin,x_561190_micro_p_0.Credit Card Holders</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-05 15:31:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9e411ab32f73201063e23f96f699b685</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>MicroPurchases</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+        <sys_update_name>sys_app_application_9e411ab32f73201063e23f96f699b685</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 11:46:58</sys_updated_on>
+        <title>MicroPurchases</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</application>
+        <file_path/>
+        <instance_id>beed1e7cdbc9b380b847ac44d496191b</instance_id>
+        <instance_name>dev83138</instance_name>
+        <name>sys_app_application_9e411ab32f73201063e23f96f699b685</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description>MicroPurchase (MPT) application menu navigation.</description><device_type>browser</device_type><hint>MicroPurchase (MPT) application menu</hint><name/><order>100</order><roles>admin,x_561190_micro_p_0.Credit Card Holders</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-05 15:31:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9e411ab32f73201063e23f96f699b685</sys_id><sys_mod_count>2</sys_mod_count><sys_name>MicroPurchases</sys_name><sys_overrides/><sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package><sys_policy/><sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope><sys_update_name>sys_app_application_9e411ab32f73201063e23f96f699b685</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-05-06 11:46:58</sys_updated_on><title>MicroPurchases</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>1853834910</payload_hash>
+        <record_name>MicroPurchases</record_name>
+        <reverted_from/>
+        <source>8b3654002f3b201063e23f96f699b6a0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 11:46:58</sys_created_on>
+        <sys_id>5738e24cdb403010c414ce4e139619ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17941809dd70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 11:46:58</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>5f38e24c694030103e0cdb8a809579ed</update_guid>
+        <update_guid_history>5f38e24c694030103e0cdb8a809579ed:1853834910,fc036ebf79732010cf5b9ebefc494c27:-1168104588,a4021e73217320106a794009819de36f:-1926805746</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="MicroPurchases">da94f4b1db40b410c414ce4e139619e4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-11 13:51:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>572dfd86b00e4a9eae9e1ac2fd86ce61</sys_id>
+        <sys_metadata>9e411ab32f73201063e23f96f699b685</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MicroPurchases</sys_name>
+        <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+        <sys_scope_delete display_value="">5197d11d239d431493cf01084a711d10</sys_scope_delete>
+        <sys_update_name>sys_app_application_9e411ab32f73201063e23f96f699b685</sys_update_name>
+        <sys_update_version display_value="sys_app_application_9e411ab32f73201063e23f96f699b685">5738e24cdb403010c414ce4e139619ee</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-11 13:51:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

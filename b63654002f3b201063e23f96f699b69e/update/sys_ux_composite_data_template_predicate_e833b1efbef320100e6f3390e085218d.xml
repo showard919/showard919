@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>due_date,short_description,number,state</field_list>
+        <name>My request - incident predicate</name>
+        <order/>
+        <predicate_bundle display_value="My requests - incident bundle">a033b1efe6f320105c3994573720c88c</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-05-04 18:38:21</sys_created_on>
+        <sys_id>e833b1efbef320100e6f3390e085218d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My request - incident predicate</sys_name>
+        <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_e833b1efbef320100e6f3390e085218d</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-05-04 18:38:21</sys_updated_on>
+        <table>incident</table>
+        <ux_template display_value="Item produced template">6833b1ef78f32010d6addf4ec23cc78c</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

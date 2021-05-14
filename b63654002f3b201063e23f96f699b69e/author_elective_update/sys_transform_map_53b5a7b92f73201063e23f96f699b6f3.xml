@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_map">
+    <sys_transform_map action="DELETE">
+        <active>true</active>
+        <copy_empty_fields>true</copy_empty_fields>
+        <create_new_record_on_empty_coalesce_fields>true</create_new_record_on_empty_coalesce_fields>
+        <enforce_mandatory_fields>No</enforce_mandatory_fields>
+        <name>TransactionTransform</name>
+        <order>100</order>
+        <run_business_rules>false</run_business_rules>
+        <run_script>false</run_script>
+        <script><![CDATA[(function transformRow(source, target, map, log, isUpdate) {
+
+	// Add your code here
+
+})(source, target, map, log, action==="update");]]></script>
+        <source_table>x_561190_micro_p_0_transimport</source_table>
+        <sys_class_name>sys_transform_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-29 16:30:51</sys_created_on>
+        <sys_id>53b5a7b92f73201063e23f96f699b6f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TransactionTransform</sys_name>
+        <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+        <sys_update_name>sys_transform_map_53b5a7b92f73201063e23f96f699b6f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-29 16:30:51</sys_updated_on>
+        <target_table>x_561190_micro_p_0_tbl_transactions</target_table>
+    </sys_transform_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</application>
+        <file_path/>
+        <instance_id>beed1e7cdbc9b380b847ac44d496191b</instance_id>
+        <instance_name>dev83138</instance_name>
+        <name>sys_transform_map_53b5a7b92f73201063e23f96f699b6f3</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_map"&gt;&lt;sys_transform_map action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;copy_empty_fields&gt;true&lt;/copy_empty_fields&gt;&lt;create_new_record_on_empty_coalesce_fields&gt;true&lt;/create_new_record_on_empty_coalesce_fields&gt;&lt;enforce_mandatory_fields&gt;No&lt;/enforce_mandatory_fields&gt;&lt;name&gt;TransactionTransform&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;run_business_rules&gt;false&lt;/run_business_rules&gt;&lt;run_script&gt;false&lt;/run_script&gt;&lt;script&gt;&lt;![CDATA[(function transformRow(source, target, map, log, isUpdate) {
+
+	// Add your code here
+
+})(source, target, map, log, action==="update");]]&gt;&lt;/script&gt;&lt;source_table&gt;x_561190_micro_p_0_transimport&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_map&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-04-29 16:30:51&lt;/sys_created_on&gt;&lt;sys_id&gt;53b5a7b92f73201063e23f96f699b6f3&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;TransactionTransform&lt;/sys_name&gt;&lt;sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0"&gt;b63654002f3b201063e23f96f699b69e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Micro Purchase Transactions (MPT)"&gt;b63654002f3b201063e23f96f699b69e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_map_53b5a7b92f73201063e23f96f699b6f3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-04-29 16:30:51&lt;/sys_updated_on&gt;&lt;target_table&gt;x_561190_micro_p_0_tbl_transactions&lt;/target_table&gt;&lt;/sys_transform_map&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>197900490</payload_hash>
+        <record_name>TransactionTransform</record_name>
+        <reverted_from/>
+        <source>8b3654002f3b201063e23f96f699b6a0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-29 16:30:52</sys_created_on>
+        <sys_id>251623792f73201063e23f96f699b615</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1791e7802740000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-29 16:30:52</sys_updated_on>
+        <type>Table Transform Map</type>
+        <update_guid>6d162379cc732010d2a35bf3dc781314</update_guid>
+        <update_guid_history>6d162379cc732010d2a35bf3dc781314:197900490</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-30 20:14:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_transform_map">sys_transform_map</sys_db_object>
+        <sys_id>15eda4939f8448108b46f0954a154b90</sys_id>
+        <sys_metadata>53b5a7b92f73201063e23f96f699b6f3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TransactionTransform</sys_name>
+        <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+        <sys_scope_delete display_value="">5197d11d239d431493cf01084a711d10</sys_scope_delete>
+        <sys_update_name>sys_transform_map_53b5a7b92f73201063e23f96f699b6f3</sys_update_name>
+        <sys_update_version display_value="sys_transform_map_53b5a7b92f73201063e23f96f699b6f3">251623792f73201063e23f96f699b615</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-30 20:14:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

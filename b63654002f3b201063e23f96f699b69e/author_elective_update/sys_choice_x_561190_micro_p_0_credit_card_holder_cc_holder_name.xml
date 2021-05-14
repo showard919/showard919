@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="cc_holder_name" table="x_561190_micro_p_0_credit_card_holder" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>cc_holder_name</element>
+            <name>x_561190_micro_p_0_credit_card_holder</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-30 15:50:32</sys_created_on>
+            <sys_id>a876a41a2fff201063e23f96f699b6ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cc_holder_name</sys_name>
+            <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+            <sys_update_name>sys_choice_x_561190_micro_p_0_credit_card_holder_cc_holder_name</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-30 15:50:32</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>cc_holder_name</dependent_value>
+            <element>cc_holder_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Credit Card Holder</label>
+            <language>en</language>
+            <name>x_561190_micro_p_0_credit_card_holder</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-30 15:58:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>85e720da2fff201063e23f96f699b620</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-30 15:58:07</sys_updated_on>
+            <value>cc_holder_name</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cc_holder_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Credit Card Holder</label>
+            <language>en</language>
+            <name>x_561190_micro_p_0_credit_card_holder</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-30 15:50:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>afe5285a2fff201063e23f96f699b67a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-30 15:50:32</sys_updated_on>
+            <value>cc_holder_name</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

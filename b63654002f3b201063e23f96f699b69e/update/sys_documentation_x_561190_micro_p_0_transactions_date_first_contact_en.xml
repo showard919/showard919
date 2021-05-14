@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="date_first_contact" label="Date first contact" language="en" table="x_561190_micro_p_0_transactions">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>date_first_contact</element>
+            <help/>
+            <hint/>
+            <label>Date first contact</label>
+            <language>en</language>
+            <name>x_561190_micro_p_0_transactions</name>
+            <plural>Date first contacts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-06 17:40:15</sys_created_on>
+            <sys_id>de19fb48db843010c414ce4e13961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Date first contact</sys_name>
+            <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+            <sys_update_name>sys_documentation_x_561190_micro_p_0_transactions_date_first_contact_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-06 17:40:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

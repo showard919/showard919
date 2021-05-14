@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_561190_micro_p_0_transactions</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-05 16:39:14</sys_created_on>
+        <sys_id>b281a6bf2f73201063e23f96f699b6d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_561190_micro_p_0_transactions</sys_name>
+        <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+        <sys_update_name>sys_security_acl_b281a6bf2f73201063e23f96f699b6d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-05 16:39:14</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</application>
+        <file_path/>
+        <instance_id>beed1e7cdbc9b380b847ac44d496191b</instance_id>
+        <instance_name>dev83138</instance_name>
+        <name>sys_security_acl_b281a6bf2f73201063e23f96f699b6d7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>x_561190_micro_p_0_transactions</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-05 16:39:14</sys_created_on><sys_id>b281a6bf2f73201063e23f96f699b6d7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_561190_micro_p_0_transactions</sys_name><sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package><sys_policy/><sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope><sys_update_name>sys_security_acl_b281a6bf2f73201063e23f96f699b6d7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-05-05 16:39:14</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1790498803</payload_hash>
+        <record_name>x_561190_micro_p_0_transactions</record_name>
+        <reverted_from/>
+        <source>8b3654002f3b201063e23f96f699b6a0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-05 16:39:14</sys_created_on>
+        <sys_id>fe81a6bf2f73201063e23f96f699b6d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1793d65d3e40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-05 16:39:14</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>3a81a6bf9c7320100afc22bc311637d9</update_guid>
+        <update_guid_history>3a81a6bf9c7320100afc22bc311637d9:-1790498803</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 17:35:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>338f7a75abfb419c9f4c2fa5cd94b2a1</sys_id>
+        <sys_metadata>b281a6bf2f73201063e23f96f699b6d7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_561190_micro_p_0_transactions</sys_name>
+        <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+        <sys_parent display_value="">ca26585b2f33201063e23f96f699b670</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+        <sys_scope_delete display_value="">5197d11d239d431493cf01084a711d10</sys_scope_delete>
+        <sys_update_name>sys_security_acl_b281a6bf2f73201063e23f96f699b6d7</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_b281a6bf2f73201063e23f96f699b6d7">fe81a6bf2f73201063e23f96f699b6d9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 17:35:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

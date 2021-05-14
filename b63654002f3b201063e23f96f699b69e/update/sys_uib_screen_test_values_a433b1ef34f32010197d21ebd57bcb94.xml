@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+  "sysId" : "aeed229047801200e0ef563dbb9a71c2",
+  "table" : "sc_req_item"
+}</macroponent_config>
+        <screen display_value="Record Page(request) Default">6433b1efd2f32010ef456f610c3c5994</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-05-04 18:38:19</sys_created_on>
+        <sys_id>a433b1ef34f32010197d21ebd57bcb94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_a433b1ef34f32010197d21ebd57bcb94</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-05-04 18:38:19</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

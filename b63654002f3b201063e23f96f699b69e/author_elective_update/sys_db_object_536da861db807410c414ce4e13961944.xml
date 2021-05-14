@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Micro P 0 1620672074320</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_561190_micro_p_0_1620672074320</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">f15db8876d2220100acb70b3534330f2</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-10 18:41:17</sys_created_on>
+        <sys_id>536da861db807410c414ce4e13961944</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Micro P 0 1620672074320</sys_name>
+        <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+        <sys_update_name>sys_db_object_536da861db807410c414ce4e13961944</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-10 18:41:17</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</application>
+        <file_path/>
+        <instance_id>beed1e7cdbc9b380b847ac44d496191b</instance_id>
+        <instance_name>dev83138</instance_name>
+        <name>sys_db_object_536da861db807410c414ce4e13961944</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Micro P 0 1620672074320</label><live_feed_enabled>false</live_feed_enabled><name>x_561190_micro_p_0_1620672074320</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Import Set Row" name="sys_import_set_row">f15db8876d2220100acb70b3534330f2</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-10 18:41:17</sys_created_on><sys_id>536da861db807410c414ce4e13961944</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Micro P 0 1620672074320</sys_name><sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package><sys_policy/><sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope><sys_update_name>sys_db_object_536da861db807410c414ce4e13961944</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-05-10 18:41:17</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-931198224</payload_hash>
+        <record_name>Micro P 0 1620672074320</record_name>
+        <reverted_from/>
+        <source>8b3654002f3b201063e23f96f699b6a0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-10 18:41:17</sys_created_on>
+        <sys_id>936da861db807410c414ce4e13961972</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17957955e050000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-10 18:41:17</sys_updated_on>
+        <type>Table</type>
+        <update_guid>1f6da861ef807410060522ce0f64c171</update_guid>
+        <update_guid_history>1f6da861ef807410060522ce0f64c171:-931198224</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-10 18:42:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>2e10501f7d324bc6aa6c8f845a727711</sys_id>
+        <sys_metadata>536da861db807410c414ce4e13961944</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Micro P 0 1620672074320</sys_name>
+        <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+        <sys_scope_delete display_value="">5197d11d239d431493cf01084a711d10</sys_scope_delete>
+        <sys_update_name>sys_db_object_536da861db807410c414ce4e13961944</sys_update_name>
+        <sys_update_version display_value="sys_db_object_536da861db807410c414ce4e13961944">936da861db807410c414ce4e13961972</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-10 18:42:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

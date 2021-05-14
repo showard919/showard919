@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="2833b1efc3f320104502ca3649f82596" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_561190_micro_p_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2021-05-04 18:38:17</sys_created_on>
+            <sys_id>2c33b1ef2ff32010fc3c7370c406bd96</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="6833b1efbcf32010d5664227889c3296">2833b1efc3f320104502ca3649f82596</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2021-05-04 18:38:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2021-05-04 18:38:17</sys_created_on>
+            <sys_id>6c33b1ef0bf32010908b13236649ef96</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="6833b1efbcf32010d5664227889c3296">2833b1efc3f320104502ca3649f82596</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2021-05-04 18:38:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2021-05-04 18:38:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2833b1efc3f320104502ca3649f82596</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+            <sys_update_name>sys_ui_section_2833b1efc3f320104502ca3649f82596</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2021-05-04 18:38:17</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal (x_561190_micro_p_0 )" name="custom_portal_approval_x_561190_micro_p_0">6833b1efbcf32010d5664227889c3296</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

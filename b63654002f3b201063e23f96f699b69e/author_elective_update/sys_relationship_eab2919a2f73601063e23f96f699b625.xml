@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_relationship">
+    <sys_relationship action="DELETE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>x_561190_micro_p_0_credit_card_holder</basic_apply_to>
+        <basic_query_from/>
+        <insert_callback/>
+        <name>Credit Card Holders test</name>
+        <query_from/>
+        <query_with><![CDATA[(function refineQuery(current, parent) 
+     {
+
+		// Add your code here, such as current.addQuery(field, value);
+
+		var target = new GlideRecord('Credit Card Holders');
+
+		//var target = new GlideRecord('x_561190_micro_p_0-credit_card_holder');
+
+		target.addNullQuery('cc_holder_name');
+	
+	}
+);
+(current, parent);]]></query_with>
+        <reference_field/>
+        <related_list/>
+        <simple_reference>true</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-30 19:13:14</sys_created_on>
+        <sys_id>eab2919a2f73601063e23f96f699b625</sys_id>
+        <sys_mod_count>18</sys_mod_count>
+        <sys_name>Credit Card Holders test</sys_name>
+        <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+        <sys_update_name>sys_relationship_eab2919a2f73601063e23f96f699b625</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-30 21:44:51</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="DELETE" query="documentkey=eab2919a2f73601063e23f96f699b625"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</application>
+        <file_path/>
+        <instance_id>beed1e7cdbc9b380b847ac44d496191b</instance_id>
+        <instance_name>dev83138</instance_name>
+        <name>sys_relationship_eab2919a2f73601063e23f96f699b625</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_relationship"&gt;&lt;sys_relationship action="INSERT_OR_UPDATE"&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;apply_to/&gt;&lt;basic_apply_to&gt;x_561190_micro_p_0_credit_card_holder&lt;/basic_apply_to&gt;&lt;basic_query_from/&gt;&lt;insert_callback/&gt;&lt;name&gt;Credit Card Holders test&lt;/name&gt;&lt;query_from/&gt;&lt;query_with&gt;&lt;![CDATA[(function refineQuery(current, parent) 
+     {
+
+		// Add your code here, such as current.addQuery(field, value);
+
+		var target = new GlideRecord('Credit Card Holders');
+
+		//var target = new GlideRecord('x_561190_micro_p_0-credit_card_holder');
+
+		target.addNullQuery('cc_holder_name');
+	
+	}
+);
+(current, parent);]]&gt;&lt;/query_with&gt;&lt;reference_field/&gt;&lt;related_list/&gt;&lt;simple_reference&gt;true&lt;/simple_reference&gt;&lt;sys_class_name&gt;sys_relationship&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-04-30 19:13:14&lt;/sys_created_on&gt;&lt;sys_id&gt;eab2919a2f73601063e23f96f699b625&lt;/sys_id&gt;&lt;sys_mod_count&gt;18&lt;/sys_mod_count&gt;&lt;sys_name&gt;Credit Card Holders test&lt;/sys_name&gt;&lt;sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0"&gt;b63654002f3b201063e23f96f699b69e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Micro Purchase Transactions (MPT)"&gt;b63654002f3b201063e23f96f699b69e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_relationship_eab2919a2f73601063e23f96f699b625&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-04-30 21:44:51&lt;/sys_updated_on&gt;&lt;/sys_relationship&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=eab2919a2f73601063e23f96f699b625"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>710347656</payload_hash>
+        <record_name>Credit Card Holders test</record_name>
+        <reverted_from/>
+        <source>8b3654002f3b201063e23f96f699b6a0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-30 21:44:52</sys_created_on>
+        <sys_id>4f87b9962ff3601063e23f96f699b6af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17924bdd8590000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-30 21:44:52</sys_updated_on>
+        <type>Relationship</type>
+        <update_guid>c787b996a6f360104f15ddf890d24eaf</update_guid>
+        <update_guid_history>c787b996a6f360104f15ddf890d24eaf:710347656,2f77b596c6f360102b5044aa9157db4b:-2144210122,8a96b9561ff3601040c7e12f4515e682:-1926969406,88863d56eff36010ac2f194278c0c572:430087243,8034f9d221f3601085e265f567b55e52:233434603,9fe33dd2cef36010613d595a0e07133a:1729091113,9b92fd12cdf36010535512d94f0fb5b8:1139081474,5abfa1de84b3601097c76ec60ebb87db:-1362517310,6c9fe512d0f360106802921bbcb7cf72:-2071511541,942fa99eabb36010cfd1562ca3f6754f:1810095632,9fce61dea9b360109f4d188a52c046ad:469416870,4966ed5a1fb360105afe593a84270818:723371570,2036e91af7b360103eb1bc02bb4e0a38:95147121,44f5291a7bb36010222172f5bbf18767:2047160828,9e45e91a0fb36010e3714d237e6e6e28:-962366372,0ab3291a12b36010ec6c4e2208148362:1251040698,5092a9d690b3601035934696fc298f82:-1916818852,68261ddaff7360106d3563d5bca34295:1320058868,75d4dd1af673601008bc865a14ff4814:-1641003289</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-04 16:33:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_relationship">sys_relationship</sys_db_object>
+        <sys_id>9f50287c343d41b0b288532cecf0cff1</sys_id>
+        <sys_metadata>eab2919a2f73601063e23f96f699b625</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Credit Card Holders test</sys_name>
+        <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+        <sys_parent display_value="">ce1d23b12fb3201063e23f96f699b6a1</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+        <sys_scope_delete display_value="">5197d11d239d431493cf01084a711d10</sys_scope_delete>
+        <sys_update_name>sys_relationship_eab2919a2f73601063e23f96f699b625</sys_update_name>
+        <sys_update_version display_value="sys_relationship_eab2919a2f73601063e23f96f699b625">4f87b9962ff3601063e23f96f699b6af</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-04 16:33:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

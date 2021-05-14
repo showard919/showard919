@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_561190_micro_p_0_fy21_open_balance" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_561190_micro_p_0_fy21_open_balance" element="NULL" name="x_561190_micro_p_0_fy21_open_balance" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4da9514c2fbb201063e23f96f699b6db</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-23 19:47:52</sys_created_on>
+            <sys_id>c5a9514c2fbb201063e23f96f699b6dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-23 19:47:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>acct_no</element>
+            <list_id display_value="x_561190_micro_p_0_fy21_open_balance" element="NULL" name="x_561190_micro_p_0_fy21_open_balance" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4da9514c2fbb201063e23f96f699b6db</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-23 19:47:52</sys_created_on>
+            <sys_id>49a9514c2fbb201063e23f96f699b6dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-23 19:47:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>bal_id</element>
+            <list_id display_value="x_561190_micro_p_0_fy21_open_balance" element="NULL" name="x_561190_micro_p_0_fy21_open_balance" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4da9514c2fbb201063e23f96f699b6db</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-23 19:47:52</sys_created_on>
+            <sys_id>c9a9514c2fbb201063e23f96f699b6dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-23 19:47:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>division</element>
+            <list_id display_value="x_561190_micro_p_0_fy21_open_balance" element="NULL" name="x_561190_micro_p_0_fy21_open_balance" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4da9514c2fbb201063e23f96f699b6db</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-23 19:47:52</sys_created_on>
+            <sys_id>4da9514c2fbb201063e23f96f699b6dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-23 19:47:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>o_bal</element>
+            <list_id display_value="x_561190_micro_p_0_fy21_open_balance" element="NULL" name="x_561190_micro_p_0_fy21_open_balance" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4da9514c2fbb201063e23f96f699b6db</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-23 19:47:52</sys_created_on>
+            <sys_id>cda9514c2fbb201063e23f96f699b6dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-23 19:47:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_561190_micro_p_0_fy21_open_balance</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-23 19:47:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4da9514c2fbb201063e23f96f699b6db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_561190_micro_p_0_fy21_open_balance</sys_name>
+            <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+            <sys_update_name>sys_ui_list_x_561190_micro_p_0_fy21_open_balance_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-23 19:47:52</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</application>
+        <file_path/>
+        <instance_id>beed1e7cdbc9b380b847ac44d496191b</instance_id>
+        <instance_name>dev83138</instance_name>
+        <name>sys_ui_list_x_561190_micro_p_0_fy21_open_balance_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_561190_micro_p_0_fy21_open_balance" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>number</element><list_id display_value="x_561190_micro_p_0_fy21_open_balance" element="NULL" name="x_561190_micro_p_0_fy21_open_balance" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4da9514c2fbb201063e23f96f699b6db</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-23 19:47:52</sys_created_on><sys_id>c5a9514c2fbb201063e23f96f699b6dc</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-23 19:47:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>acct_no</element><list_id display_value="x_561190_micro_p_0_fy21_open_balance" element="NULL" name="x_561190_micro_p_0_fy21_open_balance" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4da9514c2fbb201063e23f96f699b6db</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-23 19:47:52</sys_created_on><sys_id>49a9514c2fbb201063e23f96f699b6dc</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-23 19:47:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>bal_id</element><list_id display_value="x_561190_micro_p_0_fy21_open_balance" element="NULL" name="x_561190_micro_p_0_fy21_open_balance" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4da9514c2fbb201063e23f96f699b6db</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-23 19:47:52</sys_created_on><sys_id>c9a9514c2fbb201063e23f96f699b6dc</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-23 19:47:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>division</element><list_id display_value="x_561190_micro_p_0_fy21_open_balance" element="NULL" name="x_561190_micro_p_0_fy21_open_balance" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4da9514c2fbb201063e23f96f699b6db</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-23 19:47:52</sys_created_on><sys_id>4da9514c2fbb201063e23f96f699b6dc</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-23 19:47:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>o_bal</element><list_id display_value="x_561190_micro_p_0_fy21_open_balance" element="NULL" name="x_561190_micro_p_0_fy21_open_balance" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4da9514c2fbb201063e23f96f699b6db</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-23 19:47:52</sys_created_on><sys_id>cda9514c2fbb201063e23f96f699b6dc</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-23 19:47:52</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_561190_micro_p_0_fy21_open_balance</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-23 19:47:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4da9514c2fbb201063e23f96f699b6db</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_561190_micro_p_0_fy21_open_balance</sys_name><sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package><sys_policy/><sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope><sys_update_name>sys_ui_list_x_561190_micro_p_0_fy21_open_balance_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-23 19:47:52</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>1251008246</payload_hash>
+        <record_name>FY21 Open Balance</record_name>
+        <reverted_from/>
+        <source>8b3654002f3b201063e23f96f699b6a0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-23 19:47:52</sys_created_on>
+        <sys_id>81a9994c2fbb201063e23f96f699b621</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179004639240000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-23 19:47:52</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>c9a9514cefbb201091a2b03851cb5dde</update_guid>
+        <update_guid_history>c9a9514cefbb201091a2b03851cb5dde:1251008246</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-29 14:22:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>0493f01f6b9c41a8bbd2bcf7c9077240</sys_id>
+        <sys_metadata>4da9514c2fbb201063e23f96f699b6db</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_561190_micro_p_0_fy21_open_balance</sys_name>
+        <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+        <sys_parent display_value="">695fd8842f3b201063e23f96f699b6b0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+        <sys_scope_delete display_value="">5197d11d239d431493cf01084a711d10</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_561190_micro_p_0_fy21_open_balance_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_561190_micro_p_0_fy21_open_balance_null">81a9994c2fbb201063e23f96f699b621</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-29 14:22:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

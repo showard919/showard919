@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Transactions" max_length="40" name="x_561190_micro_p_0_transactions" sizeclass="6999" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Account Number (Read Only)" max_length="40" name="account_number" read_only="true" type="string"/>
+        <element choice="1" label="Account Number Lookup" mandatory="true" max_length="32" name="account_number_lookup" reference="x_561190_micro_p_0_accounts" reference_qual="account_numberISNOTEMPTY^EQ" reference_qual_condition="account_numberISNOTEMPTY^EQ" type="reference">
+            <choice/>
+        </element>
+        <element label="Approval Official Lookup" mandatory="true" max_length="32" name="approval_official_lookup" reference="sys_user" reference_qual="roles=x_561190_micro_p_0.Approval Official^EQ" reference_qual_condition="roles=x_561190_micro_p_0.Approval Official^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice_table="x_561190_micro_p_0_approval_officials" label="Approval Official (Read Only)" max_length="61" name="approve_official" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true,ref_auto_completer" label="App Official Div (Read Only)" max_length="40" name="approve_official_division" read_only="true" reference="x_561190_micro_p_0_organizations" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Bal test" max_length="40" name="bal_test" type="string"/>
+        <element attributes="edge_encryption_enabled=true" calculation="(function calculatedFieldValue(current) &#13;&#10;{&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;//var ourUser = gs.getUser(); &#9;&#9;&#13;&#10;&#9;//var userID = ourUser.getName();&#9;&#13;&#10;&#9;&#13;&#10;&#9;//current.cc_holder_name =  userID;&#13;&#10;&#9;&#13;&#10;&#9;//var ourUser = gs.getUserName();&#9;&#13;&#10;&#9;//return ourUser;  // return the calculated value&#13;&#10;&#9;&#13;&#10;&#9;if (current.cc_holder_name =='')&#13;&#10;&#9;{&#13;&#10;&#9;&#9;var ourUser = gs.getUserDisplayName();&#13;&#10;&#9;&#9;return ourUser;&#13;&#10;&#9;}&#13;&#10;&#9;else&#13;&#10;&#9;{&#13;&#10;&#9;&#9;return current.cc_holder_name;&#13;&#10;&#9;}&#9;&#13;&#10;&#9;&#13;&#10;&#13;&#10;})(current);" label="Credit Card Holder" max_length="40" name="cc_holder_name" read_only="true" type="string" virtual="true"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="243" name="comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="CreatedAt" max_length="40" name="createdat" type="string"/>
+        <element label="Credit Card Holder_Lookup" mandatory="true" max_length="32" name="credit_card_holder" reference="sys_user" reference_qual="roles=x_561190_micro_p_0.Credit Card Holders^EQ" reference_qual_condition="roles=x_561190_micro_p_0.Credit Card Holders^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Date first contact" max_length="40" name="date_first_contact" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Delivery date" max_length="40" name="delivery_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,is_selective=true" label="Final cost" max_length="40" name="final_cost" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Fiscal year" max_length="40" name="fiscal_year" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Hardware\Sostware" mandatory="true" max_length="40" name="hw_sw" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Hardware" sequence="1" value="HW"/>
+                <element inactive_on_update="false" label="Software" sequence="2" value="SW"/>
+            </choice>
+        </element>
+        <element label="ID" max_length="40" name="id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Item description" mandatory="true" max_length="225" name="item_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="New final cost" max_length="40" name="new_final_cost" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Open bal" max_length="40" name="open_bal" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Order status" max_length="40" name="order_status" type="string"/>
+        <element attributes="ref_ac_columns_search=AJAXReferenceChoice" choice="1" label="Approval Official Division Lookup" mandatory="true" max_length="32" name="organization_ref" reference="x_561190_micro_p_0_organizations" type="reference">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Reqestor name" max_length="45" name="reqestor_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Requisition Number" mandatory="true" max_length="40" name="req_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Vendor" max_length="92" name="vendor" type="string"/>
+        <element attributes="ref_qual_elements=Vendor" label="Vendor Lookup" max_length="32" name="vendor_lookup" reference="x_561190_micro_p_0_vendor" reference_qual="vendorISNOTEMPTY^EQ" reference_qual_condition="vendorISNOTEMPTY^EQ" type="reference"/>
+        <index name="index">
+            <element name="organization_ref"/>
+        </index>
+        <index name="index2">
+            <element name="approval_official_lookup"/>
+        </index>
+        <index name="index3">
+            <element name="credit_card_holder"/>
+        </index>
+        <index name="index4">
+            <element name="account_number_lookup"/>
+        </index>
+        <index name="index5">
+            <element name="vendor_lookup"/>
+        </index>
+    </element>
+</database>

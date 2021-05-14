@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Requests Dataset">e433b1efcff32010c71cacf4f30ab88a</dataset>
+        <order/>
+        <predicate_bundle display_value="My requests - reqested item bundle">2433b1ef78f3201017a5256ff68a4b8c</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-05-04 18:38:21</sys_created_on>
+        <sys_id>e033b1efabf32010cc8ce69bbbb4708c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_e033b1efabf32010cc8ce69bbbb4708c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-05-04 18:38:21</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

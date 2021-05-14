@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-13 19:31:05</sys_created_on>
+        <sys_id>ca9550a2db0c3810c414ce4e1396190b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_561190_micro_p_0_fiscalyr.x_561190_micro_p_0.Credit Card Holders</sys_name>
+        <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+        <sys_security_acl display_value="x_561190_micro_p_0_fiscalyr">8e95dc22db0c3810c414ce4e13961935</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ca9550a2db0c3810c414ce4e1396190b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-13 19:31:05</sys_updated_on>
+        <sys_user_role display_value="x_561190_micro_p_0.Credit Card Holders" name="x_561190_micro_p_0.Credit Card Holders">f86dd6fb2f73201063e23f96f699b6c9</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</application>
+        <file_path/>
+        <instance_id>beed1e7cdbc9b380b847ac44d496191b</instance_id>
+        <instance_name>dev83138</instance_name>
+        <name>sys_security_acl_role_ca9550a2db0c3810c414ce4e1396190b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-13 19:31:05</sys_created_on><sys_id>ca9550a2db0c3810c414ce4e1396190b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_561190_micro_p_0_fiscalyr.x_561190_micro_p_0.Credit Card Holders</sys_name><sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package><sys_policy/><sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope><sys_security_acl display_value="x_561190_micro_p_0_fiscalyr">8e95dc22db0c3810c414ce4e13961935</sys_security_acl><sys_update_name>sys_security_acl_role_ca9550a2db0c3810c414ce4e1396190b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-05-13 19:31:05</sys_updated_on><sys_user_role display_value="x_561190_micro_p_0.Credit Card Holders" name="x_561190_micro_p_0.Credit Card Holders">f86dd6fb2f73201063e23f96f699b6c9</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-154266046</payload_hash>
+        <record_name>x_561190_micro_p_0_fiscalyr.x_561190_micro_p_0.Credit Card Holders</record_name>
+        <reverted_from/>
+        <source>8b3654002f3b201063e23f96f699b6a0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-13 19:31:05</sys_created_on>
+        <sys_id>029590a2db0c3810c414ce4e139619db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17967360a3e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-13 19:31:05</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>4a9590a2f40c3810f8fbff25f73e32da</update_guid>
+        <update_guid_history>4a9590a2f40c3810f8fbff25f73e32da:-154266046</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_561190_micro_p_0_fiscalyr.x_561190_micro_p_0.Credit Card Holders">3f76c072db887810c414ce4e139619dc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-14 13:03:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>8478284fd7674d3e8774893363b4b921</sys_id>
+        <sys_metadata>ca9550a2db0c3810c414ce4e1396190b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_561190_micro_p_0_fiscalyr.x_561190_micro_p_0.Credit Card Holders</sys_name>
+        <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+        <sys_parent display_value="">8e95dc22db0c3810c414ce4e13961935</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+        <sys_scope_delete display_value="">5197d11d239d431493cf01084a711d10</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_ca9550a2db0c3810c414ce4e1396190b</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_ca9550a2db0c3810c414ce4e1396190b">029590a2db0c3810c414ce4e139619db</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-14 13:03:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

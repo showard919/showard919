@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Approval Officials" max_length="40" name="x_561190_micro_p_0_approval_officials" sizeclass="38" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Approval_Official" max_length="40" name="approval_official" type="string"/>
+        <element attributes="edge_encryption_enabled=true,ref_auto_completer=true" label="Division" max_length="40" name="division" type="string"/>
+        <element label="ID" max_length="40" name="id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="MicroPurchases">9e411ab32f73201063e23f96f699b685</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Add New Transaction</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_561190_micro_p_0_transactions</name>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_561190_micro_p_0.Credit Card Holders,admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 16:01:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>def12380db443010c414ce4e139619b3</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Add New Transaction</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+        <sys_update_name>sys_app_module_def12380db443010c414ce4e139619b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 16:06:22</sys_updated_on>
+        <timeline_page/>
+        <title>Add New Transaction</title>
+        <uncancelable>false</uncancelable>
+        <view_name>New Transaction</view_name>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</application>
+        <file_path/>
+        <instance_id>beed1e7cdbc9b380b847ac44d496191b</instance_id>
+        <instance_name>dev83138</instance_name>
+        <name>sys_app_module_def12380db443010c414ce4e139619b3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="MicroPurchases">9e411ab32f73201063e23f96f699b685</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Add New Transaction</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_561190_micro_p_0_transactions</name><order>2</order><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_561190_micro_p_0.Credit Card Holders,admin</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-06 16:01:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>def12380db443010c414ce4e139619b3</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Add New Transaction</sys_name><sys_overrides/><sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package><sys_policy/><sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope><sys_update_name>sys_app_module_def12380db443010c414ce4e139619b3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-05-06 16:06:22</sys_updated_on><timeline_page/><title>Add New Transaction</title><uncancelable>false</uncancelable><view_name>New Transaction</view_name><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1996076267</payload_hash>
+        <record_name>Add New Transaction</record_name>
+        <reverted_from/>
+        <source>8b3654002f3b201063e23f96f699b6a0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 16:06:22</sys_created_on>
+        <sys_id>87936bc0db443010c414ce4e13961993</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179426e1a320000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 16:06:22</sys_updated_on>
+        <type>Module</type>
+        <update_guid>03936bc036443010aad811e2a3a9f893</update_guid>
+        <update_guid_history>03936bc036443010aad811e2a3a9f893:1996076267,85b26b80b34430106f87621f3907b329:-980147565,f2722b807a443010dd428ff4af7d4189:-1286171163</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Add New Transaction">b618f308db843010c414ce4e139619dd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 17:35:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>5a1ee952add34049a4af57a183da3861</sys_id>
+        <sys_metadata>def12380db443010c414ce4e139619b3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Add New Transaction</sys_name>
+        <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+        <sys_scope_delete display_value="">5197d11d239d431493cf01084a711d10</sys_scope_delete>
+        <sys_update_name>sys_app_module_def12380db443010c414ce4e139619b3</sys_update_name>
+        <sys_update_version display_value="sys_app_module_def12380db443010c414ce4e139619b3">87936bc0db443010c414ce4e13961993</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 17:35:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

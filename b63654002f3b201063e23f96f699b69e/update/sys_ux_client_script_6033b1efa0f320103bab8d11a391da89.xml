@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Order success">6433b1efe4f3201098d3f264f53ccb88</macroponent>
+        <name>View request redirection</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    let {
+        table,
+        sysId
+    } = api.context.props;
+
+    const route = "record_request";
+
+    if (table != "sc_request") {
+        table = table == "incident" ? "incident" : "task";
+        api.emit('NAV_ITEM_SELECTED', {
+            route,
+            fields: {
+                table,
+                sysId
+            }
+        });
+    } else {
+        api.emit('NAV_ITEM_SELECTED', {
+            route,
+            fields: {
+                table : "sc_req_item",
+                sysId : api.data.request_item_data_broker_1.output.sysId
+            }
+        });
+    }
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-05-04 18:38:20</sys_created_on>
+        <sys_id>6033b1efa0f320103bab8d11a391da89</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>View request redirection</sys_name>
+        <sys_package display_value="Micro Purchase Transactions (MPT)" source="x_561190_micro_p_0">b63654002f3b201063e23f96f699b69e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Micro Purchase Transactions (MPT)">b63654002f3b201063e23f96f699b69e</sys_scope>
+        <sys_update_name>sys_ux_client_script_6033b1efa0f320103bab8d11a391da89</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-05-04 18:38:20</sys_updated_on>
+    </sys_ux_client_script>
+</record_update>
